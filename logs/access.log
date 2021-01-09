@@ -1,0 +1,13 @@
+[2020-12-01T16:27:33.776] [DEBUG] [Freeze-Frame-Validator-Api] - [App] Server spinning up!
+[2020-12-01T16:27:33.874] [DEBUG] [Freeze-Frame-Validator-Api] - [ { controller: 'VideoController', endpoints: [ [Object] ] } ]
+[2020-12-01T16:27:33.883] [INFO] [Freeze-Frame-Validator-Api] - [App] [32mroutes: [39m
+  [32m- [39m
+    [32mcontroller: [39mVideoController
+    [32mendpoints: [39m
+      [32m- [39m
+        [32mroute: [39mPOST /video/parse_video
+        [32margs: [39m
+          [32m- [39m@request undefined
+          [32m- [39m@response undefined
+          [32m- [39m@next undefined
+[2020-12-01T16:27:33.884] [DEBUG] [Freeze-Frame-Validator-Api] - [App] server is running! listening to port 3000
